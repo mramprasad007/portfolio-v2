@@ -63,7 +63,7 @@ const styles: { [key: string]: React.CSSProperties } = {
   logo: {
     fontWeight: "bold",
     fontSize: "1.5rem",
-    color: "#6200ee",
+    color: "var(--color-primary)",
     userSelect: "none",
   },
   menuButton: {
@@ -106,7 +106,7 @@ const styles: { [key: string]: React.CSSProperties } = {
   },
   navItemSelected: {
     fontWeight: "bold",
-    color: "#6200ee",
+    color: "var(--color-primary)",
   },
 };
 

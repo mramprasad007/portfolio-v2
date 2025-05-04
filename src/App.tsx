@@ -31,9 +31,14 @@ function App() {
   };
 
   return (
-    <div style={styles.appContainer}>
+      <div style={{ 
+        ...styles.appContainer, 
+        fontFamily: "var(--font-body)", 
+        backgroundColor: "var(--color-bg)", 
+        color: "var(--color-text)" 
+      }}>
       <TopNav selected={selected} onSelect={setSelected} />
-      <main style={styles.mainContent}>{renderSection()}</main>
+      <main className="fade-in" style={styles.mainContent}>{renderSection()}</main>
     </div>
   );
 }

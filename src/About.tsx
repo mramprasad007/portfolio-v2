@@ -2,7 +2,7 @@ import React from "react";
 
 const About: React.FC = () => {
   return (
-    <section style={styles.container}>
+    <section className="fade-in" style={styles.container}>
       <h1 style={styles.title}>Principal Software Engineer</h1>
       <p style={styles.subtitle}>I design and code beautifully simple things, and I love what I do.</p>
       <img

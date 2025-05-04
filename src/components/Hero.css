@@ -1,0 +1,39 @@
+.hero {
+  background-color: var(--primary);
+  color: #ffffff;
+  padding: calc(var(--spacing) * 4) 0;
+}
+
+.hero-logo {
+  margin-bottom: calc(var(--spacing) * 2);
+  /* Add logo styling here */
+}
+
+.hero-tagline {
+  font-size: 1.75rem;
+  font-weight: 500;
+  margin-bottom: calc(var(--spacing) * 2);
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  gap: var(--spacing);
+}
+
+.social-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 3rem;
+  height: 3rem;
+  border: 2px solid rgba(255, 255, 255, 0.7);
+  border-radius: 50%;
+  color: #ffffff;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.social-icon:hover {
+  background-color: #ffffff;
+  color: var(--primary);
+}

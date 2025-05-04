@@ -1,0 +1,33 @@
+.roles-overview {
+  padding: calc(var(--spacing) * 4) 0;
+}
+
+.role-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--spacing);
+}
+
+.role-card {
+  background-color: #ffffff;
+  border: 1px solid var(--gray-300);
+  border-radius: 8px;
+  padding: var(--spacing);
+  width: 240px;
+  text-align: center;
+}
+
+.role-icon {
+  margin-bottom: calc(var(--spacing) / 2);
+  color: var(--primary);
+}
+
+.role-card h3 {
+  margin-bottom: calc(var(--spacing) / 2);
+}
+
+.role-card p {
+  font-size: 0.9rem;
+  color: var(--gray-700);
+}

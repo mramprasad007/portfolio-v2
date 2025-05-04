@@ -1,0 +1,19 @@
+.contact {
+  padding: calc(var(--spacing) * 4) 0;
+}
+
+.contact h2 {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: var(--spacing);
+}
+
+.contact p {
+  font-size: 1rem;
+  color: var(--gray-700);
+  margin-bottom: var(--spacing);
+}
+
+.contact .btn {
+  padding: 0.75rem 1.5rem;
+}

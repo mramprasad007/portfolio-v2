@@ -1,0 +1,27 @@
+.footer {
+  background-color: var(--gray-300);
+  color: var(--gray-700);
+  padding: calc(var(--spacing) * 2) 0;
+  text-align: center;
+}
+
+.footer .social-icons {
+  display: flex;
+  justify-content: center;
+  gap: var(--spacing);
+  margin-bottom: var(--spacing);
+}
+
+.footer .social-icons a {
+  color: var(--dark);
+  transition: color 0.3s;
+}
+
+.footer .social-icons a:hover {
+  color: var(--primary);
+}
+
+.footer p {
+  margin: 0.2rem 0;
+  font-size: 0.9rem;
+}

@@ -1,0 +1,84 @@
+Ram Prasad
+Principal Software Engineer
+
+Chennai
+9620582351
+
+Principal Software Engineer with over 8 years of extensive experience in Front-end Focused Full Stack Web Development. 
+
+  Developed and deployed multiple web applications using React.js and improved website performance by optimizing HTML, CSS, and JavaScript code, resulting in a 30% reduction in page load time and an enhanced user experience.
+  Leveraged Node.js and Express.js to optimize back-end processes, resulting in a reduction in server response time and an increase in overall system performance.
+  Implemented AWS Cloud architecture for a client, resulting in a 40% reduction in infrastructure costs and improved reliability with auto-scaling and load balancing. (AWS Certified Solutions Architect)
+  Streamlined the deployment process by implementing CI/CD pipelines with AWS Code Build and Deploy/Gitlab CI Pipeline and Docker, reducing deployment time and ensuring consistent and reliable releases.
+  Acted as a mentor to junior developers, providing guidance and training on best practices for front-end/full stack development.
+  Actively participated in Agile development, daily stand-ups, sprint planning, and retrospective meetings.
+
+
+PERSONAL INFORMATION
+  Address: , Chennai, 
+  Nationality: 
+  Driving License: 
+  Hobbies: 
+
+SOCIAL PROFILES
+  * LinkedIn: https://www.linkedin.com/in/ramprasad94
+  * AWS Certification Badges: https://www.credly.com/users/ramprasad94
+
+LANGUAGES
+
+SKILLS
+  ★★★★★ React
+  ★★★★★ HTML5
+  ★★★★★ CSS3
+  ★★★★★ JavaScript
+  ★★★★★ AWS Solution Architecture
+  ★★★★★ Express.js
+  ★★★★☆ Node.js
+  ★★★★☆ SQL
+
+WORK EXPERIENCE
+  * July 2021 – Present
+    Principal Software Enginneer at  Innova Solutions, Chennai
+      
+  Designed and developed full-stack web applications using React JS as Frontend and Express/Node JS as Backend.
+  Created Rest API services and integrated with PostgreSQL as the database to create a single web portal with user management capabilities.
+  Integrated different BI tools like Superset and Spotfire to view Analytic Dashboards.
+  Designed and created cloud infrastructure for hosting UI and API Services using AWS CloudFormation. Dockerized React and Express/Node JS application for deployment in AWS Elastic Container-Fargate Service.
+
+Skills: Reactjs, Redux, HTML5, CSS3, JavaScript, Express.js, Node.js, SQL, AWS, TypeScript, SCSS,  React Query, CI/CD, Docker, Git and Jest.
+
+  * October 2020 – June 2021
+    Senior Software Development Engineer  at  Squareshift, Chennai
+      
+  Designed and implemented Reporting features for a complex application using React. These features connect with the AWS Datalake and provide sophisticated reporting dashboards for comprehensive data analysis.
+  Optimized and maintained a Datalake infrastructure through utilization of Athena, Glue, Lambda, API Gateway, S3, and Spark. Continuously enhanced and maintained its functionality to ensure optimal data efficiency.
+
+Skills: React.js, AWS Datalake, PySpark, Amazon Athena, Elasticsearch and Python,
+
+  * December 2018 – September 2020
+     Software Development Engineer  at  Coda Global, Chennai
+      
+  Developed web application utilizing Angular for Frontend design for process/workflow management application.
+  Designed and implemented AWS cloud-based solutions for GPS IOT tracking application.
+  Contributed as a subject matter expert in DevOps and Automation in AWS environment, utilizing expertise in architectural design and implementing best practices to ensure optimal performance.
+
+Skills: Angular, Pulumi - Infrastructure as code (IaC), CI/CD, Docker, Material UI and AWS.
+
+  * October 2015 – November 2018
+     Senior Systems Engineer at  Infosys Limited, Trivandrum
+      
+  Developed multiple Web and Mobile applications using Angular, React, Ionic, and React Native technologies.
+
+Skills: Reactjs, Angular, Ionic Framework, React Native, Bootstrap, TypeScript, SCSS and Apache Cordova
+
+
+EDUCATION
+  * May 2015
+    St. Joseph&#39;s College of Engineering, Chennai Bachelor of Engineering
+
+AWARDS AND RECOGNITIONS
+CERTIFICATIONS
+  * AWS Certified Solution Architect Professional, , 
+  * AWS Certified DevOps Professional , , 
+  * AWS Certified Machine Learning Specialty, , 
+PROJECTS

@@ -1,5 +1,5 @@
 export default {
   preset: 'ts-jest',
   testEnvironment: 'jsdom',
-  setupFilesAfterEnv: ['@testing-library/jest-dom'],
+  setupFilesAfterEnv: ['./src/jest.setup.ts'],
 };

@@ -1,0 +1,9 @@
+#root {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+h1, h2, h3, h5 {
+  margin-bottom: 0.5rem;
+}

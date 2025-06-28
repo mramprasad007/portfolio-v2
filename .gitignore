@@ -1,0 +1,23 @@
+# System files
+.DS_Store
+
+# Temporary files
+*.log
+*.tmp
+
+# Node dependencies
+node_modules/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# Environment files
+env/
+venv/
+.env
+
+# Editor directories
+.vscode/
+.idea/
+
